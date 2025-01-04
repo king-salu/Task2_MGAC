@@ -1,0 +1,4 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+    - [Installations](/{{route}}/{{version}}/installations)
+    - [Endpoints](/{{route}}/{{version}}/endpoints)
